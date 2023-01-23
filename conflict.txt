@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-modifiy conflict.txto on master
-=======
+<<<<<< HEAD
 modify conflict.txt on test-conflict
 >>>>>>> test-conflict
