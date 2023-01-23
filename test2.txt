@@ -1,2 +1,3 @@
 Adding some text to test2.txt
 
+Testing to see if file changes can be seen in new-branch
